@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9",
-    "files":  {
-                  "Client.dll":  "bdf99671567e964acb91e441d722e57088d0cd24d702c919ee1fd0e819f03c11"
-              }
+    "version": "1.0.10",
+    "files": {
+        "Client.dll": "f3e528780b11007ed0efb0bf3d3db9ff22a4b7e617487a8072bc9aeae7957852"
+    }
 }
