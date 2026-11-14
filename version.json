@@ -1,6 +1,7 @@
 {
-    "version": "1.0.13",
-    "files": {
-        "Client.dll": "92aad93f9be65b1afef65fe173d50b025e8f7ff85a396dcd7960e30188b235d1"
-    }
+    "version":  "1.0.14",
+    "files":  {
+                  "AimOptByDexter.dll":  "8de5a552d1142cf79ca754a13fc37236d5913c7cf70cbe08281662e2ad09fbc5",
+                  "Client.dll":  "2060e132d88730d097d2f7378751ac088fc0190f28dbf2c0ab62d9d9a41aec70"
+              }
 }
